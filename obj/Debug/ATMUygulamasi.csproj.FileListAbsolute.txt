@@ -1,0 +1,57 @@
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.exe.config
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.exe
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.pdb
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.AssemblyReference.cache
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.AboneninBilgileri.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Admin.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.EmailKoduGondermeVesifreDegistirme.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Form1.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.KullanciHesap.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.ParaAktarim.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.ParaCek.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.parayatir.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Properties.Resources.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.SifreDegistirme.resources
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.GenerateResource.cache
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.CoreCompileInputs.cache
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.exe
+D:\yazStaj\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.pdb
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.exe.config
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.exe
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.pdb
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.AssemblyReference.cache
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.AboneninBilgileri.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Admin.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.EmailKoduGondermeVesifreDegistirme.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Form1.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.KullanciHesap.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.ParaAktarim.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.ParaCek.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.parayatir.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Properties.Resources.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.SifreDegistirme.resources
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.GenerateResource.cache
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.CoreCompileInputs.cache
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.exe
+D:\Mohammad Alobiad 181002210 StajRaporu\ATMUygulamasi\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.pdb
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.exe.config
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.exe
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\bin\Debug\ATMUygulamasi.pdb
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.AssemblyReference.cache
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.AboneninBilgileri.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Admin.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.EmailKoduGondermeVesifreDegistirme.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Form1.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.KullanciHesap.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.ParaAktarim.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.ParaCek.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.parayatir.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.Properties.Resources.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.SifreDegistirme.resources
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.GenerateResource.cache
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.exe
+C:\Users\happy\Downloads\ATMUygulamasi\ATMUygulamasi\obj\Debug\ATMUygulamasi.pdb
