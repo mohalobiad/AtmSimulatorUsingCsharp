@@ -1,0 +1,1 @@
+it is an application that simulates an ATM machine and the operations performed on it. It includes a login system and is supported by a database. In this project, I applied what I learned in university to real-life situations, and the project was successfully in the end.
